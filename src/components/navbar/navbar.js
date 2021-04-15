@@ -1,13 +1,20 @@
 import React from 'react';
-import {Nav} from './navbar.elements';
+import { Nav, NavbarContainer, NavLogo, NavIcon } from './Navbar.elements';
 
 
-const navbar = () => {
+const Navbar = () => {
     return (
-        
-        <Nav>placeholder</Nav>
-        
+
+        <Nav>
+            <NavbarContainer>
+                <NavLogo to="/">
+                    <NavIcon />
+                    SV
+                </NavLogo>
+            </NavbarContainer>
+        </Nav>
+
     );
 }
 
-export default navbar
+export default Navbar;
