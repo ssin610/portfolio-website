@@ -9,9 +9,9 @@ export const homeObjOne = {
     description:
       'If you are interested in getting in touch, click the button below!.',
     buttonLabel: 'Contact Me',
-    // imgStart: '',
-    // img: require('../../images/svg-1.svg'),
-    // alt: 'Credit Card',
-    // start: ''
+ 
+    img: require('../../images/first.svg').default,
+    alt: 'Image',
+    start: ''
    
   };
