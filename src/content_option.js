@@ -1,45 +1,45 @@
 const logotext = "SV";
 const meta = {
     title: "SV Singh",
-    description: "I’m SV Singh engineering student _ ,currently studying at The University of Auckland",
+    description: "I’m SV Singh, currently a Software Engineer for Fonterra/HCL Technologies",
 };
 
 const introdata = {
     title: "I’m SV",
     animated: {
         first: "I love coding.",
-        second: "I'm eager to learn.",
+        second: "I'm eager to deliver results.",
         third: "I'm a tech enthusiast.",
     },
-    description: "Currently a Penultimate Year Software Engineering Student at The University of Auckland",
+    description: "Currently a Software Engineer for Fonterra/HCL Technologies",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "Hello! I'm in the Penultimate Year of my Software Engineering Degree at \n The University of Auckland. I'm passionate about all things tech & design\n related and have a strong desire to learn.",
+    aboutme: "Hello! I'm a Software Engineer for Fonterra/HCL Technologies",
 };
 
 
 const skills = [{
         name: "Java",
-        value: 90,
+        value: 100,
     },
     {
         name: "ReactJS",
-        value: 85,
+        value: 100,
     },
     {
-        name: "C#",
-        value: 80,
+        name: "NodeJS",
+        value: 100,
     },
     {
-        name: "SQL",
-        value: 60,
+        name: "TypeScript",
+        value: 100,
     },
     {
-        name: "Agile/Scrum Methodology",
-        value: 85,
+        name: "JavaScript",
+        value: 100,
     },
 ];
 
@@ -59,7 +59,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/sv-singh",
 
-    linkedin: "https://linkedin.com/in/sv-singh",
+    linkedin: "https://linkedin.com/in/sv-dev",
 
 };
 export {
