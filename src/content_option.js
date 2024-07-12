@@ -1,23 +1,23 @@
 const logotext = "SV";
 const meta = {
-    title: "SV Singh",
-    description: "I’m SV Singh, currently a Software Engineer for Fonterra/HCL Technologies",
+    title: "SV",
+    description: "I’m SV, currently a Software Engineer for Fonterra",
 };
 
 const introdata = {
     title: "I’m SV",
     animated: {
-        first: "I love coding.",
+        first: "I love problem solving.",
         second: "I'm eager to deliver results.",
         third: "I'm a tech enthusiast.",
     },
-    description: "Currently a Software Engineer for Fonterra/HCL Technologies",
+    description: "Currently a Software Engineer for Fonterra",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "Hello! I'm a Software Engineer for Fonterra/HCL Technologies",
+    aboutme: "Hello! I'm a Software Engineer for Fonterra",
 };
 
 
@@ -26,19 +26,19 @@ const skills = [{
         value: 100,
     },
     {
-        name: "ReactJS",
+        name: "JavaScript/TypeScript",
         value: 100,
     },
     {
-        name: "NodeJS",
+        name: "Python",
         value: 100,
     },
     {
-        name: "TypeScript",
+        name: "C#",
         value: 100,
     },
     {
-        name: "JavaScript",
+        name: "AWS/Azure",
         value: 100,
     },
 ];
@@ -48,7 +48,7 @@ const skills = [{
 
 
 const contactConfig = {
-    YOUR_EMAIL: "svsingh.software@gmail.com",
+    YOUR_EMAIL: "svsingh.dev@gmail.com",
     YOUR_FONE: "(+64) 22 156 6137",
     description: "Feel free to contact me by filling out the form! I'll aim to reply ASAP ",
     YOUR_SERVICE_ID: "service_id",
