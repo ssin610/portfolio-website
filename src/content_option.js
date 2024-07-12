@@ -1,7 +1,7 @@
 const logotext = "SV";
 const meta = {
     title: "SV",
-    description: "I’m SV, currently a Software Engineer for Fonterra",
+    description: "I’m SV, currently a Software Engineer at Fonterra",
 };
 
 const introdata = {
@@ -11,13 +11,13 @@ const introdata = {
         second: "I'm eager to deliver results.",
         third: "I'm a tech enthusiast.",
     },
-    description: "Currently a Software Engineer for Fonterra",
+    description: "Currently a Software Engineer at Fonterra",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "Hello! I'm a Software Engineer for Fonterra",
+    aboutme: "Hello! I'm a Software Engineer at Fonterra",
 };
 
 
